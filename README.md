@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # student_bank_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# assignment-two-flutter-UI-Rabib-Al-Adib-2221005
+Assignment 2
+>>>>>>> 76b6516f2014f4e5fdf39c9ad6d1e3f2207e2cbb
