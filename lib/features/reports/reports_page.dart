@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../../core/theme/app_colors.dart';
-import '../../core/widgets/student_app_bar.dart';
 
 class ReportsPage extends StatelessWidget {
   const ReportsPage({super.key});

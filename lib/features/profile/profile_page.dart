@@ -36,9 +36,9 @@ class ProfilePage extends StatelessWidget {
           const SizedBox(height: 24),
 
           // Info cards
-          _InfoCard(label: 'Name', value: '$studentName'),
+          _InfoCard(label: 'Name', value: studentName),
           const SizedBox(height: 12),
-          _InfoCard(label: 'Student ID', value: '$studentId'),
+          _InfoCard(label: 'Student ID', value: studentId),
           const SizedBox(height: 12),
           const _InfoCard(label: 'Email', value: email),
           const SizedBox(height: 20),
